@@ -1,0 +1,51 @@
+.card {
+  height: 250px;
+  background: gainsboro;
+  border-radius: 7px;
+  padding: 25px;
+  margin: 10px;
+  height: 284px;
+}
+.flexStyleCol {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+.textarea {
+  margin: 0px;
+  min-height: 158px;
+  max-height: 158px;
+  max-width: 202px;
+  border-radius: 7px;
+  min-width: 202px;
+  outline: none;
+  background: white;
+  border: none;
+}
+.createUserButton {
+  height: 35px;
+  background: green;
+  outline: none;
+  border-radius: 7px;
+  color: white;
+  border: none;
+  margin-top: 10px;
+
+  cursor: pointer;
+}
+.inputMain {
+  height: 33px;
+  width: 202px;
+  background: white;
+  outline: none;
+  border: none;
+  border-radius: 7px;
+}
+
+.flexClass {
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-height: 900px;
+}

@@ -1,0 +1,47 @@
+.navDiv {
+  width: 180px;
+  background: #9a8e8e;
+  padding: 19px;
+  min-height: 500px;
+}
+
+.navButton {
+  height: 50px;
+  font-size: 16px;
+  font-weight: 200;
+  border: none;
+  margin: 3px 0;
+  cursor: pointer;
+  text-align: left;
+  background-color: #035952;
+  border-right: 4px solid;
+  color: white;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  padding-left: 34px;
+}
+
+.navButton:hover {
+  background-color: #508370;
+}
+
+.buttonFocus {
+  outline: none;
+  background-color: #508370;
+  height: 50px;
+  font-size: 16px;
+  font-weight: 200;
+  border: none;
+  margin: 3px 0;
+  cursor: pointer;
+  text-align: left;
+  border-right: 4px solid;
+  color: white;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  padding-left: 34px;
+}

@@ -1,0 +1,37 @@
+.flexStyleCol {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+.mainDiv {
+  display: flex;
+  justify-content: flex-end;
+  height: 70px;
+  background: gainsboro;
+  align-items: center;
+}
+.select {
+  background: bisque;
+  height: 34px;
+  width: 152px;
+  outline: none;
+  border-radius: 7px;
+}
+.input {
+  background: bisque;
+  height: 33px;
+  width: 152px;
+  outline: none;
+  border: none;
+  border-radius: 7px;
+}
+.button {
+  height: 34px;
+  background: red;
+  color: white;
+  border-radius: 7px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin-top: 16px;
+}
